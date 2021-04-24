@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 Linkedin : www.linkedin.com/in/mostafa-tarek-zayed
 Gmail: mous.tarek@gmail.com
-Phone Number: 0201551029239
+
 
 <!---
 Mostafa-Tarek/Mostafa-Tarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
