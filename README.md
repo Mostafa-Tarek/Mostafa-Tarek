@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mostafa-Tarek
-- 👀 I’m interested in Robotics, Autonomous Systems and AI
+- 👀 I’m interested in Robotics, Autonomous Systems, Self-Driven Car and AI
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Robotics and Autonomous Systems 
 - 📫 How to reach me 
